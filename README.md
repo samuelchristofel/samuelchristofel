@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is **Samuel Christofel**, I am an Informatics Student at President University.<br>
+Check out my [Linkedin](https://www.linkedin.com/in/samuelchristofel) 
 
 <!--
 **samuelchristofel/samuelchristofel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
